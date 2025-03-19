@@ -1,14 +1,13 @@
-## Hi there 👋
 
+👋 Hi, I'm Chhabilal Rijal  
 
-**chhabilal-rijal/chhabilal-rijal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc. CSIT Student | Passionate about AI/ML | Data & Algorithms Enthusiast  
+💻 Currently learning and exploring Artificial Intelligence and Machine Learning  
+📚 Always eager to learn and contribute to the world of technology  
+🔍 I love solving problems and optimizing algorithms  
+🌱 Open to collaborations, discussions, and learning opportunities  
+📫 Reach me: [milanrijal17@gmail.com,chri_csit2080@lict.edu.np]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studiying Bsc.CSIT.
-- 🌱 I’m currently learning AI/ML
-- 👯 I’m looking to collaborate on AI Projects
-- 💬 Ask me about "Technology and Personal Devlopment"
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/799827857999790151) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004880507523) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_milan_rijal_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chhabilal-rijal-2b4911299) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x,com/_milan_rijal?t=vhLaJ8nonSpdGO1ml0B_ZQ&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milanrijal17@gmail.com, chri_csit2080@gmail.com) 
